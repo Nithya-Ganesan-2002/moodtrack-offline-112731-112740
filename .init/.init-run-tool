@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew installDebug",
+    "working_directory": "/home/kavia/workspace/code-generation/moodtrack-offline-112731-112740/android_app_frontend"
+}
