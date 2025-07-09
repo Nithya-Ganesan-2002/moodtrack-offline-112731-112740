@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">android_app_frontend</string>
+    <string name="app_name">MoodMate</string>
+    <string name="tab_mood">Mood</string>
+    <string name="tab_journal">Journal</string>
+    <string name="tab_trends">Trends</string>
+    <string name="privacy_notice">All data stays privately on your device - MoodMate works fully offline.</string>
+    <string name="quick_mood_entry">Quick Mood Entry</string>
+    <string name="save">Save</string>
+    <string name="journal_hint">Write something about your day (offline &amp; private)</string>
+    <string name="mood_trends">Mood Trends</string>
+    <string name="trends_placeholder">(Your mood trend will be shown here as a graph. All data remains private and local.)</string>
 </resources>

@@ -1,0 +1,10 @@
+<resources>
+    <color name="colorPrimary">#1976D2</color>
+    <color name="colorPrimaryVariant">#1565C0</color>
+    <color name="colorSecondary">#90CAF9</color>
+    <color name="colorAccent">#FFB300</color>
+    <color name="bottom_nav_selected">#1976D2</color>
+    <color name="bottom_nav_unselected">#888888</color>
+    <color name="background_light">#FAFAFA</color>
+    <color name="surface_light">#FFFFFF</color>
+</resources>
